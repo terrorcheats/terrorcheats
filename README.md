@@ -85,8 +85,4 @@ https://simpleicons.org/
 <!-- ✅  **GitHub Extra Pins**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
-
-</br>
-<p style="display: flex; justify-contect: space-between;">
-![terrorcheats's Streak](https://github-readme-streak-stats.herokuapp.com/?user=terrorcheats&theme=vue-dark&hide_border=false)
-</p>
+![terrorcheats's Stats](https://github-readme-stats.vercel.app/api?username=terrorcheats&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
