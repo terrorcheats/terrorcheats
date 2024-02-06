@@ -81,8 +81,8 @@ https://simpleicons.org/
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
+</br>
 
-<!-- ✅  **GitHub Extra Pins**
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ahmad-sawalqeh&repo=my_resume)](https://github.com/ahmad-sawalqeh/my_resume) -->
 ![terrorcheats's Stats](https://github-readme-stats.vercel.app/api?username=terrorcheats&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+![terrorcheats's Streak](https://github-readme-streak-stats.herokuapp.com/?user=terrorcheats&theme=vue-dark&hide_border=false)
+![terrorcheats's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=terrorcheats&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
